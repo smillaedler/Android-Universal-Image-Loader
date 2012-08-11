@@ -11,6 +11,8 @@ This project aims to provide a reusable instrument for asynchronous image loadin
  * Possibility to "listen" loading process
  * Possibility to customize every display image call with separated options
 
+## Mystic Tree Games addiditions
+
 ## Documentation
  * Universal Image Loader. Part 1 - Introduction [[RU](http://nostra13android.blogspot.com/2012/03/4-universal-image-loader-part-1.html) | [EN](http://www.intexsoft.com/blog/item/68-universal-image-loader-part-1.html)]
  * Universal Image Loader. Part 2 - Configuration [[RU](http://nostra13android.blogspot.com/2012/03/5-universal-image-loader-part-2.html) | [EN](http://www.intexsoft.com/blog/item/72-universal-image-loader-part-2.html)]
